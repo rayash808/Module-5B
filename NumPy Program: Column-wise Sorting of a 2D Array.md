@@ -13,8 +13,6 @@ To write a **NumPy** program that sorts the elements in each column of a given 2
 
 ## 🧾 Program
 ```
-DEVELOPED BY: JANARTHANAN K
-REGISTER NO: 212223040072
 
 import numpy as np 
 a=np.array(eval(input())) 
